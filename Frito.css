@@ -1,0 +1,45 @@
+h1 {
+    color:purple;
+    font-style: italic;
+    text-align:center;
+    font-size: 24px
+
+}
+.smalltitle {
+    color: pink;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    font-size: 16px;
+
+
+}
+.nosepic img {
+    height: 15%;
+    width: 25%;
+
+}
+
+
+.paperpic img {
+    height: 15%;
+    width: 25%;
+    ;
+}
+
+.catnippic img {
+    height: 15%;
+    width: 25%;
+    margin:auto;
+
+
+}
+.rightside {
+    text-align: right
+    font-size:30px;
+    color: blue;
+}
+
+.body {height:100%;
+       width: 100%;
+
+       }
